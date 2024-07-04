@@ -78,7 +78,7 @@ For any questions or suggestions, please open an issue or contact us at [email@e
 
 ## Signup
 
-To create an account, visit our [Signup Page](https://pages/signup.html).
+To create an account, visit our [Signup Page](https://as6769.github.io/Road-Safety/pages/signup.html).
 
 ---
 
